@@ -1,8 +1,6 @@
 package arraylist;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class ArrayListMain {
     public static void main(String[] args) {
@@ -31,6 +29,8 @@ public class ArrayListMain {
                  System.out.println(j);
 
         }
+
+
 
     }
 }
